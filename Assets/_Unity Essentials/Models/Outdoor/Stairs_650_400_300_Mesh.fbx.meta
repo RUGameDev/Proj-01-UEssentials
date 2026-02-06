@@ -95,3 +95,10 @@ ModelImporter:
   userData: 
   assetBundleName: 
   assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 4696
+  packageName: Robot Kyle | URP
+  packageVersion: 4.0
+  assetPath: Assets/_Unity Essentials/Models/Outdoor/Stairs_650_400_300_Mesh.fbx
+  uploadId: 683309

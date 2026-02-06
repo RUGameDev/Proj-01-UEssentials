@@ -931,3 +931,10 @@ ModelImporter:
   userData: 
   assetBundleName: 
   assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 4696
+  packageName: Robot Kyle | URP
+  packageVersion: 4.0
+  assetPath: Assets/_Unity Essentials/Source Files/SpaceRobotKyle/Animations/Locomotion--Run_N.anim.fbx
+  uploadId: 683309

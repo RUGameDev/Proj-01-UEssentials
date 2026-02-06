@@ -20,3 +20,10 @@ AudioImporter:
   userData: 
   assetBundleName: 
   assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 4696
+  packageName: Robot Kyle | URP
+  packageVersion: 4.0
+  assetPath: Assets/_Unity Essentials/Source Files/SpaceRobotKyle/Sfx/Player_Footstep_05.wav
+  uploadId: 683309
